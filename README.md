@@ -3,6 +3,11 @@
 ## Project Overview
 This project analyses e-commerce sales data to identify monthly revenue trends, compare product categories, understand customer spending patterns, and develop actionable business recommendations.
 
+## Live Dashboard
+
+Explore the interactive sales analytics dashboard:
+
+**https://interncircle-project-3-sales-trend-analysis-aawneya.streamlit.app/**
 ## Objectives
 - Analyse monthly revenue and month-over-month growth.
 - Identify the highest and lowest revenue months.
